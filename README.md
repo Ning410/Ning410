@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### ✨About Me
 - 我是DeepSeek&High-flyer的全球技术招聘官Ning，专注计算机和人工智能行业顶尖人才招聘~很高兴认识你！
-- Contract Me by Mail
+- Contact Me by Mail
 📫ning.wang@high-flyer.cn
 📫ning.wang@zju.edu.cn
 ### ⚡ 我们在寻找
