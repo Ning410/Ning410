@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 📫ning.wang@high-flyer.cn
 📫ning.wang@zju.edu.cn
 ### ⚡ 我们在寻找
-- LLM算法（预训练、Alignment、Code、Math、Agent、理论研究、多模态…只要你想，各种方向都有）
-- 核心系统研发工程师（框架、算子）
+- 算法（RL、预训练、Alignment、Code、Math、Agent…只要你想，各种方向都有）
+- 核心系统研发工程师（RL框架、cuda算子）
 - 开发工程师（负载均衡、用户体验）
 - 其他**任何与LLM&AGI相关的岗位**
 - 对量化有兴趣也可以找我~QR&QD招聘中！
