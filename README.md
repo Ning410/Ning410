@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 我是DeepSeek&High-flyer的全球技术招聘官Ning，专注计算机和人工智能行业顶尖人才招聘~很高兴认识你！
 - I am Ning, the global technical recruiter for DeepSeek & High-flyer, specializing in recruiting top talents in the computer and artificial intelligence industries. It's a pleasure to meet you!
 - Contact Me by Mail
-📫ning.wang@high-flyer.cn
+📫ning.wang@deepseek.com
 📫ning.wang@zju.edu.cn
 ### ⚡ 我们在寻找We are looking for
 - 算法（RL、预训练、Alignment、Code、Math、Agent…只要你想，各种方向都有）
