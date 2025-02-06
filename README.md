@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 - 对量化有兴趣也可以找我~QR&QD招聘中！
 - If you're interested in quantitative roles, feel free to reach out to me as well~ QR & QD positions are open!
 
-🌱 以上岗位全职&实习都可以，欢迎**微信**了解更多：**Antonia410**  
-🌱 Both full-time and internship positions are available for the above roles. Welcome to learn more via **WeChat**: **Antonia410**
 
 😄 如您朋友可能对科研氛围自由的大模型初创公司感兴趣，也非常欢迎您可以引荐您周围的朋友一同认识一下，互相探讨新的机会以及职业发展计划~
 😄 If you have friends who might be interested in a startup company with a free-spirited research atmosphere focusing on large models, you are very welcome to introduce them to me. Let's explore new opportunities and career development plans together~
