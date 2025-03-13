@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 - DeepSeek is aiming to explore the essence of Artificial General Intelligence (AGI). It seeks to gather more creativity and productivity through open-source initiatives and is committed to integrating research, engineering, and commerce.
 - 公司官网 Company website https://www.deepseek.com/ 
 - Github主页 Github homepage  [@DeepSeekAI ](https://github.com/deepseek-ai)
+- 🎉DeepSeek-R1 已发布并开源，性能对标 OpenAI o1 正式版，在网页端、APP 和 API 全面上线。
+- 🎉DeepSeek-R1 has been released and open-sourced, with performance comparable to OpenAI's o1 official version, and is now fully available on the web, APP, and API.
 - 🎉DeepSeek-V3 正式发布，已在网页端和 API 全面上线，性能领先，速度飞跃。
 - 🎉DeepSeek-V3 has been officially released and is now fully available on the web and API, leading in performance and achieving a leap in speed.
 - 🎉DeepSeek 官方 App 正式发布，iOS/Android 各应用市场均已上线，欢迎试用.
