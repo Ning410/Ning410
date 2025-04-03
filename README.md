@@ -14,13 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ✨我是谁About Me
+### ✨ 我是谁 About Me
 - 我是DeepSeek&High-flyer的全球技术招聘官Ning，专注计算机和人工智能行业顶尖人才招聘~很高兴认识你！
 - I am Ning, the global technical recruiter for DeepSeek & High-flyer, specializing in recruiting top talents in the computer and artificial intelligence industries. It's a pleasure to meet you!
 - Contact Me by Mail
 📫ning.wang@deepseek.com
 📫ning.wang@zju.edu.cn
-### ⚡ 我们在寻找We are looking for
+
+### 🌱 [我的个人主页 My Personal Website](https://ning410.github.io/)（建设中）
+
+- © 2025 Ning, Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
+- Developed with guidance from DeepSeek V3.
+
+### ⚡ 我们在寻找 We are looking for
 - 算法（RL、预训练、Alignment、Code、Math、Agent…只要你想，各种方向都有）
 - Algorithm experts (RL, pre-training, Alignment, Code, Math, Agent... any direction you can think of)
 - 核心系统研发工程师（RL框架、cuda算子）
@@ -32,7 +38,7 @@ Here are some ideas to get you started:
 - 对量化有兴趣也可以找我~QR&QD招聘中！
 - If you're interested in quantitative roles, feel free to reach out to me as well~ QR & QD positions are open!
 
-
+<!--
 😄 如您朋友可能对科研氛围自由的大模型初创公司感兴趣，也非常欢迎您可以引荐您周围的朋友一同认识一下，互相探讨新的机会以及职业发展计划~
 😄 If you have friends who might be interested in a startup company with a free-spirited research atmosphere focusing on large models, you are very welcome to introduce them to me. Let's explore new opportunities and career development plans together~
 
@@ -47,3 +53,4 @@ Here are some ideas to get you started:
 - 🎉DeepSeek-V3 has been officially released and is now fully available on the web and API, leading in performance and achieving a leap in speed.
 - 🎉DeepSeek 官方 App 正式发布，iOS/Android 各应用市场均已上线，欢迎试用.
 - 🎉The official DeepSeek App has been officially released and is now available on iOS/Android app markets. Welcome to try it out.
+-->
