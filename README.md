@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - Developed with guidance from DeepSeek V3.
 
 ### ⚡ 我们在寻找 We are looking for
+- 🔥 2025.4.23 新增 toC 组需求：前端、后端（含中间层）、iOS / Android、测试、产品、设计……
 - 算法（RL、预训练、Alignment、Code、Math、Agent…只要你想，各种方向都有）
 - Algorithm experts (RL, pre-training, Alignment, Code, Math, Agent... any direction you can think of)
 - 核心系统研发工程师（RL框架、cuda算子）
@@ -54,3 +55,8 @@ Here are some ideas to get you started:
 - 🎉DeepSeek 官方 App 正式发布，iOS/Android 各应用市场均已上线，欢迎试用.
 - 🎉The official DeepSeek App has been officially released and is now available on iOS/Android app markets. Welcome to try it out.
 -->
+
+
+
+![DeepSeek job list 深度求索在招岗位整理](dpsk_joblist.png)
+
